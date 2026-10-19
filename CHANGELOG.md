@@ -19,6 +19,7 @@
 - Ukrainian (uk): Use lowercase month names
 - Spanish (es, es-\*): Add new key (`datetime.relative`, see rails/rails#55405)
 - Dutch (nl): Add missing key (`number.currency.format.negative_format`)
+- Portuguese (pt): Remove the `h` and `hs` suffixes from time formats
 - Hungarian (hu): Add delimiter (space) to currency
 - Welsh (cy): Corrections for strings containing 'two'
 - Welsh (cy): restore pluralization from 7.0.5 since locale was re-added in 7.0.9
