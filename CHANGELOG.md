@@ -22,6 +22,7 @@
 - Welsh (cy): Corrections for strings containing 'two'
 - Welsh (cy): restore pluralization from 7.0.5 since locale was re-added in 7.0.9
 - Scottish Gaelic (gd): Remove duplicate `one` key from `datetime.distance_in_words.less_than_x_minutes`
+- Czech (cs): Separate thousands with a space in numbers, as currency amounts already do
 
 ## 8.1.0 (2025-11-24)
 
