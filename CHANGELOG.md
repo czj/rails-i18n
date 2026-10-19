@@ -25,6 +25,7 @@
 - Czech (cs): Separate thousands with a space in numbers, as currency amounts already do
 - Latvian (lv): Separate thousands with a space
 - Danish (da): Put the currency unit after the amount
+- Romanian (ro): Use `.` as the `number_to_human` delimiter, since `,` is the decimal separator
 
 ## 8.1.0 (2025-11-24)
 
