@@ -191,7 +191,7 @@ ro:
           tb: TB
     percentage:
       format:
-        delimiter: ","
+        delimiter: "."
     precision:
       format:
         delimiter: ''

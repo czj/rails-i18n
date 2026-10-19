@@ -7,6 +7,7 @@
 - Slovenian (sl): Put the currency unit after the amount
 - Update to Rails 8.1.x, and run `thor locales:normalize_from_rails`
 - English: Add missing keys
+- Romanian (ro): Use `.` as the percentage delimiter, since `,` is the decimal separator
 - English (en-GB): Use slashes in the default date format
 - Spanish: Add missing keys
 - Portuguese: Add missing keys
