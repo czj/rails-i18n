@@ -1,6 +1,7 @@
 ## Unreleased
 
 - Fix incorrect `ja.number.currency.format.negative_format` definition
+- Polish (pl): Keep both decimals in currency amounts
 - Fix constant resolution failures when rules are evaluated in another scope
 - Make Arabic and Lithuanian pluralization faster
 - Update to Rails 8.1.x, and run `thor locales:normalize_from_rails`
