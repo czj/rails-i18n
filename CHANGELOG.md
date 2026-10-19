@@ -13,6 +13,7 @@
 - Slovak (sk): Use lowercase day names, and month names in the genitive case used in dates
 - Translate ordinals: (nl, nl-NL, nl-BE)
 - English (en, en-\*): Add new key (`datetime.relative`, see rails/rails#55405)
+- Greek (el, el-CY): Use month names in the genitive case used in dates
 - German (de, de-\*): Add new key (`datetime.relative`, see rails/rails#55405)
 - Portuguese (pt, pt-\*): Add new key (`datetime.relative`, see rails/rails#55405)
 - Spanish (es, es-\*): Add new key (`datetime.relative`, see rails/rails#55405)
