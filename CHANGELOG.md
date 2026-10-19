@@ -24,6 +24,7 @@
 - Scottish Gaelic (gd): Remove duplicate `one` key from `datetime.distance_in_words.less_than_x_minutes`
 - Czech (cs): Separate thousands with a space in numbers, as currency amounts already do
 - Latvian (lv): Separate thousands with a space
+- Danish (da): Put the currency unit after the amount
 
 ## 8.1.0 (2025-11-24)
 
