@@ -21,6 +21,7 @@
 - Dutch (nl): Add missing key (`number.currency.format.negative_format`)
 - Portuguese (pt): Remove the `h` and `hs` suffixes from time formats
 - Hungarian (hu): Add delimiter (space) to currency
+- Bulgarian (bg): End the long date format with "г."
 - Welsh (cy): Corrections for strings containing 'two'
 - Welsh (cy): restore pluralization from 7.0.5 since locale was re-added in 7.0.9
 - Scottish Gaelic (gd): Remove duplicate `one` key from `datetime.distance_in_words.less_than_x_minutes`
