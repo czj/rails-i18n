@@ -16,6 +16,7 @@
 - Greek (el, el-CY): Use month names in the genitive case used in dates
 - German (de, de-\*): Add new key (`datetime.relative`, see rails/rails#55405)
 - Portuguese (pt, pt-\*): Add new key (`datetime.relative`, see rails/rails#55405)
+- Ukrainian (uk): Use lowercase month names
 - Spanish (es, es-\*): Add new key (`datetime.relative`, see rails/rails#55405)
 - Dutch (nl): Add missing key (`number.currency.format.negative_format`)
 - Hungarian (hu): Add delimiter (space) to currency
