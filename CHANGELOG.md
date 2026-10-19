@@ -10,6 +10,7 @@
 - Czech (cs): Use lowercase day names, and month names in the genitive case used in dates
 - Portuguese: Add missing keys
 - Traditional Chinese (zh-TW): Add missing keys (`datetime.relative`, `errors.messages.in`, `errors.messages.password_too_long`, `number.currency.format.negative_format`, `number.format.round_mode`, storage units) and update translations
+- Slovak (sk): Use lowercase day names, and month names in the genitive case used in dates
 - Translate ordinals: (nl, nl-NL, nl-BE)
 - English (en, en-\*): Add new key (`datetime.relative`, see rails/rails#55405)
 - German (de, de-\*): Add new key (`datetime.relative`, see rails/rails#55405)
